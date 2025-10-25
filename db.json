@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Telescopio Refractor 70mm EQ",
+      "description": "Equipo de iniciación para observación lunar y planetaria con montura ecuatorial básica.",
+      "price": 159999,
+      "image": "https://images.unsplash.com/photo-1550170153-3f6b96e2c3f5?q=80&w=1200&auto=format",
+      "category": "Telescopios",
+      "stock": 12,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Telescopio Newtoniano 130mm AZ",
+      "description": "Excelente apertura para cielo profundo con montura altazimutal de fácil uso.",
+      "price": 299999,
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1200&auto=format",
+      "category": "Telescopios",
+      "stock": 6,
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Ocular Plössl 10mm (1.25\")",
+      "description": "Buen contraste y nitidez para planetaria y cúmulos compactos.",
+      "price": 34999,
+      "image": "https://images.unsplash.com/photo-1518306727298-4c3939351593?q=80&w=1200&auto=format",
+      "category": "Accesorios",
+      "stock": 30,
+      "featured": false
+    },
+    {
+      "id": 4,
+      "name": "Filtro UHC 1.25\"",
+      "description": "Incrementa el contraste en nebulosas de emisión bajo cielos urbanos.",
+      "price": 59999,
+      "image": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?q=80&w=1200&auto=format",
+      "category": "Accesorios",
+      "stock": 18,
+      "featured": true
+    },
+    {
+      "id": 5,
+      "name": "Prismáticos 10x50",
+      "description": "Óptica luminosa para campo amplio; ideales para constelaciones y la Vía Láctea.",
+      "price": 79999,
+      "image": "https://images.unsplash.com/photo-1520975922284-9e0ce3c0f07c?q=80&w=1200&auto=format",
+      "category": "Óptica",
+      "stock": 22,
+      "featured": false
+    },
+    {
+      "id": 6,
+      "name": "Montura Ecuatorial EQ2",
+      "description": "Seguimiento manual con mandos finos; estable para tubos pequeños y medianos.",
+      "price": 139999,
+      "image": "https://images.unsplash.com/photo-1462332420958-a05d1e002413?q=80&w=1200&auto=format",
+      "category": "Monturas",
+      "stock": 7,
+      "featured": false
+    },
+    {
+      "id": 7,
+      "name": "Cámara Planetaria USB 2.9MP",
+      "description": "Alta velocidad para capturar Júpiter, Saturno y detalles lunares.",
+      "price": 219999,
+      "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format",
+      "category": "Astrofotografía",
+      "stock": 6,
+      "featured": true
+    },
+    {
+      "id": 8,
+      "name": "Barlow 2x (1.25\")",
+      "description": "Duplica los aumentos manteniendo distancia ocular cómoda.",
+      "price": 26999,
+      "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format",
+      "category": "Accesorios",
+      "stock": 40,
+      "featured": false
+    },
+    {
+      "id": 9,
+      "name": "Trípode Fotográfico de Aluminio",
+      "description": "Liviano y estable para binoculares, cámaras o monturas compactas.",
+      "price": 45999,
+      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cec?q=80&w=1200&auto=format",
+      "category": "Accesorios",
+      "stock": 25,
+      "featured": false
+    },
+    {
+      "id": 10,
+      "name": "Telescopio Maksutov 90mm",
+      "description": "Óptica cerrada y portátil, excelente para Luna y planetaria con gran contraste.",
+      "price": 249999,
+      "image": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?q=80&w=1200&auto=format",
+      "category": "Telescopios",
+      "stock": 8,
+      "featured": true
+    },
+    {
+      "id": 11,
+      "name": "Guía Fuera de Eje",
+      "description": "Guiado preciso para astrofotografía de larga exposición.",
+      "price": 99999,
+      "image": "https://images.unsplash.com/photo-1520974735194-9b8e6a5a6753?q=80&w=1200&auto=format",
+      "category": "Astrofotografía",
+      "stock": 9,
+      "featured": false
+    },
+    {
+      "id": 12,
+      "name": "Lámpara Roja Astronómica",
+      "description": "Conserva la visión nocturna durante las sesiones de observación.",
+      "price": 14999,
+      "image": "https://images.unsplash.com/photo-1504208434309-cb69f4fe52b0?q=80&w=1200&auto=format",
+      "category": "Accesorios",
+      "stock": 50,
+      "featured": false
+    }
+  ]
+}
