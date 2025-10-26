@@ -2,122 +2,202 @@
   "products": [
     {
       "id": 1,
-      "name": "Telescopio Refractor 70mm EQ",
-      "description": "Equipo de iniciación para observación lunar y planetaria con montura ecuatorial básica.",
+      "name": "Telescopio Refractor 70mm",
+      "description": "Tu primer telescopio serio. Perfecto para observar cráteres lunares y los anillos de Saturno. Montura estable, fácil de usar y resultados desde la primera noche.",
       "price": 159999,
-      "image": "https://images.unsplash.com/photo-1550170153-3f6b96e2c3f5?q=80&w=1200&auto=format",
-      "category": "Telescopios",
-      "stock": 12,
-      "featured": true
-    },
-    {
-      "id": 2,
-      "name": "Telescopio Newtoniano 130mm AZ",
-      "description": "Excelente apertura para cielo profundo con montura altazimutal de fácil uso.",
-      "price": 299999,
-      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1200&auto=format",
-      "category": "Telescopios",
-      "stock": 6,
-      "featured": false
-    },
-    {
-      "id": 3,
-      "name": "Ocular Plössl 10mm (1.25\")",
-      "description": "Buen contraste y nitidez para planetaria y cúmulos compactos.",
-      "price": 34999,
-      "image": "https://images.unsplash.com/photo-1518306727298-4c3939351593?q=80&w=1200&auto=format",
-      "category": "Accesorios",
-      "stock": 30,
-      "featured": false
-    },
-    {
-      "id": 4,
-      "name": "Filtro UHC 1.25\"",
-      "description": "Incrementa el contraste en nebulosas de emisión bajo cielos urbanos.",
-      "price": 59999,
-      "image": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?q=80&w=1200&auto=format",
-      "category": "Accesorios",
-      "stock": 18,
-      "featured": true
-    },
-    {
-      "id": 5,
-      "name": "Prismáticos 10x50",
-      "description": "Óptica luminosa para campo amplio; ideales para constelaciones y la Vía Láctea.",
-      "price": 79999,
-      "image": "https://images.unsplash.com/photo-1520975922284-9e0ce3c0f07c?q=80&w=1200&auto=format",
-      "category": "Óptica",
-      "stock": 22,
-      "featured": false
-    },
-    {
-      "id": 6,
-      "name": "Montura Ecuatorial EQ2",
-      "description": "Seguimiento manual con mandos finos; estable para tubos pequeños y medianos.",
-      "price": 139999,
-      "image": "https://images.unsplash.com/photo-1462332420958-a05d1e002413?q=80&w=1200&auto=format",
-      "category": "Monturas",
-      "stock": 7,
-      "featured": false
-    },
-    {
-      "id": 7,
-      "name": "Cámara Planetaria USB 2.9MP",
-      "description": "Alta velocidad para capturar Júpiter, Saturno y detalles lunares.",
-      "price": 219999,
-      "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format",
-      "category": "Astrofotografía",
-      "stock": 6,
-      "featured": true
-    },
-    {
-      "id": 8,
-      "name": "Barlow 2x (1.25\")",
-      "description": "Duplica los aumentos manteniendo distancia ocular cómoda.",
-      "price": 26999,
-      "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format",
-      "category": "Accesorios",
-      "stock": 40,
-      "featured": false
-    },
-    {
-      "id": 9,
-      "name": "Trípode Fotográfico de Aluminio",
-      "description": "Liviano y estable para binoculares, cámaras o monturas compactas.",
-      "price": 45999,
-      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cec?q=80&w=1200&auto=format",
-      "category": "Accesorios",
-      "stock": 25,
-      "featured": false
-    },
-    {
-      "id": 10,
-      "name": "Telescopio Maksutov 90mm",
-      "description": "Óptica cerrada y portátil, excelente para Luna y planetaria con gran contraste.",
-      "price": 249999,
-      "image": "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?q=80&w=1200&auto=format",
+      "image": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5?w=800&q=80&auto=format",
       "category": "Telescopios",
       "stock": 8,
       "featured": true
     },
     {
+      "id": 2,
+      "name": "Telescopio Reflector 130mm",
+      "description": "Apertura generosa para explorar galaxias y nebulosas. Incluye buscador, trípode ajustable y dos oculares. El favorito de astrónomos intermedios.",
+      "price": 289999,
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80&auto=format",
+      "category": "Telescopios",
+      "stock": 5,
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Binoculares Astronómicos 15x70",
+      "description": "Explora el cielo sin complicaciones. Ideales para constelaciones, cúmulos estelares y seguir satélites. Óptica luminosa de 70mm con trípode incluido.",
+      "price": 124999,
+      "image": "https://images.unsplash.com/photo-1591768575585-a50c30fcd3f5?w=800&q=80&auto=format",
+      "category": "Óptica",
+      "stock": 12,
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "Ocular Plössl 10mm",
+      "description": "Aumenta el poder de tu telescopio. Diseño de 4 elementos para nitidez superior en planetas. Compatible con la mayoría de telescopios estándar.",
+      "price": 34999,
+      "image": "https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?w=800&q=80&auto=format",
+      "category": "Accesorios",
+      "stock": 25,
+      "featured": false
+    },
+    {
+      "id": 5,
+      "name": "Filtro Lunar y Planetario",
+      "description": "Reduce el brillo cegador de la Luna llena. Mejora contraste en Marte, Júpiter y Venus. Rosca estándar 1.25 pulgadas, instalación en segundos.",
+      "price": 18999,
+      "image": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?w=800&q=80&auto=format",
+      "category": "Accesorios",
+      "stock": 40,
+      "featured": false
+    },
+    {
+      "id": 6,
+      "name": "Lámpara Luna 3D 15cm",
+      "description": "Réplica lunar impresa en 3D con superficie ultra detallada. 16 colores LED ajustables por control remoto. Carga USB, autonomía de 8 horas.",
+      "price": 29999,
+      "image": "https://images.unsplash.com/photo-1607250267267-29ac1fdc4536?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bW9vbiUyMGxhbXB8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500",
+      "category": "Decoración",
+      "stock": 18,
+      "featured": true
+    },
+    {
+      "id": 7,
+      "name": "Proyector de Galaxias LED",
+      "description": "Convierte tu habitación en un planetario. 12 modos de nebulosas, control remoto y temporizador. Perfecto para relajación y meditación cósmica.",
+      "price": 45999,
+      "image": "https://i5.walmartimages.com/asr/2f0848e8-5137-4fc6-bc07-f91372aaa8eb.63f1debe68016a7b21df4f32e79af529.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "category": "Decoración",
+      "stock": 22,
+      "featured": true
+    },
+    {
+      "id": 8,
+      "name": "Atlas Estelar Profesional",
+      "description": "Guía completa del cielo con 50 mapas detallados. Incluye coordenadas, magnitudes y consejos de observación. Edición actualizada 2025 con nuevos descubrimientos.",
+      "price": 18999,
+      "image": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=800&q=80&auto=format",
+      "category": "Libros",
+      "stock": 30,
+      "featured": false
+    },
+    {
+      "id": 9,
+      "name": "Cosmos - Carl Sagan",
+      "description": "El clásico que cambió la divulgación científica. Edición ilustrada con fotografías del Hubble. Un viaje épico por el espacio y el tiempo.",
+      "price": 24999,
+      "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1388620656i/55030.jpg",
+      "category": "Libros",
+      "stock": 15,
+      "featured": true
+    },
+    {
+      "id": 10,
+      "name": "Crop top NASA - I need more space",
+      "description": "100% algodón premium con logo NASA. Diseño auténtico que resiste lavados. Tallas S a XXL.",
+      "price": 12999,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&q=80&auto=format",
+      "category": "Indumentaria",
+      "stock": 50,
+      "featured": false
+    },
+    {
       "id": 11,
-      "name": "Guía Fuera de Eje",
-      "description": "Guiado preciso para astrofotografía de larga exposición.",
-      "price": 99999,
-      "image": "https://images.unsplash.com/photo-1520974735194-9b8e6a5a6753?q=80&w=1200&auto=format",
-      "category": "Astrofotografía",
-      "stock": 9,
+      "name": "Poster Nebulosa del Cangrejo",
+      "description": "Impresión fotográfica del Telescopio Hubble en papel mate premium 250gr. Tamaño 50x70cm. Los colores reales del espacio en tu pared.",
+      "price": 8999,
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/outreach/migrated/2025/STScI-01JPASVM337SY3R8S23620ZM3K.jpg?w=1280&h=720&fit=crop&crop=faces%2Cfocalpoint",
+      "category": "Posters",
+      "stock": 35,
       "featured": false
     },
     {
       "id": 12,
-      "name": "Lámpara Roja Astronómica",
-      "description": "Conserva la visión nocturna durante las sesiones de observación.",
-      "price": 14999,
-      "image": "https://images.unsplash.com/photo-1504208434309-cb69f4fe52b0?q=80&w=1200&auto=format",
+      "name": "Mapa Estelar Personalizado",
+      "description": "El cielo de tu fecha especial impreso y enmarcado. Incluye constelaciones, coordenadas y mensaje personalizado. Marco negro premium incluido.",
+      "price": 19999,
+      "image": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=800&q=80&auto=format",
+      "category": "Posters",
+      "stock": 100,
+      "featured": true
+    },
+    {
+      "id": 13,
+      "name": "Montura Ecuatorial EQ3",
+      "description": "Seguimiento preciso de objetos celestes. Mandos de movimiento fino en ambos ejes. Soporta hasta 5kg. Compatible con motores opcionales.",
+      "price": 189999,
+      "image": "https://images.unsplash.com/photo-1462332420958-a05d1e002413?w=800&q=80&auto=format",
+      "category": "Monturas",
+      "stock": 6,
+      "featured": false
+    },
+    {
+      "id": 14,
+      "name": "Cámara Planetaria ZWO",
+      "description": "Captura Júpiter, Saturno y detalles lunares en alta resolución. Sensor CMOS 2.9MP, USB 3.0. Software de captura incluido. Para Windows y Mac.",
+      "price": 249999,
+      "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=800&q=80&auto=format",
+      "category": "Astrofotografía",
+      "stock": 4,
+      "featured": false
+    },
+    {
+      "id": 15,
+      "name": "Hoodie NASA blanco",
+      "description": "Buzo canguro con logo NASA. Felpa interior suave, capucha ajustable. Perfecto para noches de observación. Unisex.",
+      "price": 24999,
+      "image": "https://images.unsplash.com/photo-1633332529545-41bba9ef67dc?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=387",
+      "category": "Indumentaria",
+      "stock": 28,
+      "featured": false
+    },
+    {
+      "id": 16,
+      "name": "Linterna Roja Astronómica",
+      "description": "Preserva tu visión nocturna durante las observaciones. LED rojo regulable, batería recargable. Clip para cinturón y modo estroboscópico SOS.",
+      "price": 9999,
+      "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&q=80&auto=format",
       "category": "Accesorios",
-      "stock": 50,
+      "stock": 45,
+      "featured": false
+    },
+    {
+      "id": 17,
+      "name": "Planisferio Celeste Rotativo",
+      "description": "Encuentra cualquier constelación en segundos. Disco rotativo ajustable para cualquier fecha y hora. Material resistente al rocío. Diámetro 30cm.",
+      "price": 6999,
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80&auto=format",
+      "category": "Accesorios",
+      "stock": 60,
+      "featured": false
+    },
+    {
+      "id": 18,
+      "name": "Adaptador Smartphone para Telescopio",
+      "description": "Astrofotografía con tu celular. Sujeción universal ajustable, instalación sin herramientas. Compatible con iPhone y Android. Captura la Luna en HD.",
+      "price": 14999,
+      "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=800&q=80&auto=format",
+      "category": "Astrofotografía",
+      "stock": 32,
+      "featured": true
+    },
+    {
+      "id": 19,
+      "name": "Set 3 Posters Sistema Solar",
+      "description": "Tríptico educativo del sistema solar en ilustración moderna. Cada poster 30x40cm, papel mate 200gr. Perfecto para habitaciones infantiles.",
+      "price": 12999,
+      "image": "https://images.unsplash.com/photo-1614313913007-2b4ae8ce32d6?w=800&q=80&auto=format",
+      "category": "Posters",
+      "stock": 40,
+      "featured": false
+    },
+    {
+      "id": 20,
+      "name": "Guía de Astrofotografía",
+      "description": "De cero a experto en fotografía astronómica. 200 páginas con técnicas, configuraciones y post-procesado. Incluye casos reales y troubleshooting.",
+      "price": 16999,
+      "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80&auto=format",
+      "category": "Libros",
+      "stock": 20,
       "featured": false
     }
   ]
